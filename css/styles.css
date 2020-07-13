@@ -1,0 +1,16 @@
+form {
+  text-align: center;
+  border: dotted;
+  border-color: grey;
+}
+table {
+
+  margin: auto;
+}
+th#id {
+  display: none;
+}
+h4,h5{
+  display: inline;
+
+}

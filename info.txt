@@ -1,0 +1,4 @@
+1
+ :: Apple :: Iphone 11 :: 99990 :: 1 1
+ :: Samsung :: Galaxy S7 :: 35000 :: 54 1
+ :: Xiaomi :: Redmi Note 4 :: 4999 :: 3 
